@@ -24,8 +24,6 @@ service.
 
 ## Install
 
-`bower install ng-q-update`
-
 include the script after angular
 
     <script src="bower_components/angular/angular.js"></script>
